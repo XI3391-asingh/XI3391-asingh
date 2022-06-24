@@ -1,3 +1,6 @@
+<p align="center">
+ <img width="800px" height="600px" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" align="center" alt="My Profile Picture" /></p>
+ 
 - 👋 Hi, I’m @XI3391-asingh
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
